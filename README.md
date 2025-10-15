@@ -10,8 +10,13 @@
 ![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-FF7A59?logo=formik&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-4B32C3?logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![FSD](https://img.shields.io/badge/FSD_(Feature_Sliced_Design)-1E1E1E?logo=archlinux&logoColor=white)
+
 
 ---
 
