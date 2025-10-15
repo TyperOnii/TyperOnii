@@ -1,9 +1,6 @@
-# 👋 Hello World!  
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Hello World
 
-💻 Frontend Developer  
-📍 Россия | 🌐 Разрабатываю на **React / Next.js / TypeScript**  
-
----
+# Frontend Developer ( **React / Next.js / TypeScript** ) 
 
 ## 🧰 Стек технологий
 
